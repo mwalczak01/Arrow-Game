@@ -5,4 +5,7 @@ Built following along Youtube video entitled "How to make a Video Game | For Beg
 1. Player Mechanic - Input.GetButtonDown
 2. Creating prefabs
 3. Delay spawning of objects without resetting game
-4. Debugging score to not increase upon striking another arrow
+
+# My Contributions
+1. Debugging score to not increase upon striking another arrow
+2. Added bow and arrow images
