@@ -1,4 +1,4 @@
-# Arrow-Game
+# Dart Game
 Built following along Youtube video entitled "How to make a Video Game | For Beginners | Unity 2022 | FULL TUTORIAL" by Jason Weimann (GameDev). Player clicks mouse, or taps screen, to shoot a spinning object to achieve the highest score without hitting attached arrows.
 
 # What I Learned
